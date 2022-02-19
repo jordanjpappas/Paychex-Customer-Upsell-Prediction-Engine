@@ -1,0 +1,3 @@
+# Paychex-Customer-Upsell-Prediction-Engine
+
+Paychex wants to sell more PEO products to increase revenue for its business and reduce costs/improve service for its clients. Thus, the goal of this project is to predict which existing Paychex clients are most likely to purchase PEO (Basic or Master plan). To deliver against this goal, the team employed various classification algorithms, e.g., Support Vector Machine and Extreme Gradient Boosting, to successfully predict customer upsell propensity. Additionally, the team leveraged SMOTE resampling and Optuna hyperparameter tuning to mitigate class imbalance performance issues. Finally, the team delivered a dynamic interface for Paychex to generate client lists with their respective upgrade probabilities.
